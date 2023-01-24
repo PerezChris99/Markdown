@@ -16,3 +16,12 @@ Below are 6 heading varieties
 
 # Horizontal Rule
 ---
+
+# Text Formatting
+
+Paragraph line spacing.
+
+spacing
+
+*italic text* and _none italic text_
+
