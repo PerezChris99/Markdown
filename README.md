@@ -13,3 +13,6 @@ Below are 6 heading varieties
 ##### Heading 5
 
 ###### Heading 6
+
+# Horizontal Rule
+---
