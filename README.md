@@ -19,7 +19,7 @@ Below are 6 heading varieties
 
 # Text Formatting
 
-Paragraph line spacing.
+# Paragraph line spacing.
 
 spacing
 
@@ -86,3 +86,7 @@ Unordered List
 | React    | Javascript  | v18.0   |
 |next.js   | React       | v12.0   |
 
+# Task List
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
