@@ -80,5 +80,9 @@ Unordered List
 
 ![alt text here](/image.jpg)(https://www.youtube.com)
 
-
+# Tables
+| Packages | Description | Version |
+| :---     |  :----:     | ---:    |
+| React    | Javascript  | v18.0   |
+|next.js   | React       | v12.0   |
 
