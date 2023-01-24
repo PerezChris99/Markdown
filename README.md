@@ -28,3 +28,5 @@ spacing
 **bold text** and __more bold text__
 
 ***bold and italic text***
+
+**mix *and* match**
