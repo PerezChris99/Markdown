@@ -94,3 +94,6 @@ Unordered List
 # Emojis
 
 Emoji's are fun! joy:-
+
+# Comments
+[This is a hidden comment.]: #
