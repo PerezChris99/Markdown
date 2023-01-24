@@ -93,7 +93,7 @@ Unordered List
 
 # Emojis
 
-Emoji's are fun! joy:-
+Emoji's are fun! :joy:
 
 # Comments
 [This is a hidden comment.]: #
@@ -104,3 +104,7 @@ Emoji's are fun! joy:-
     <summary> This is a toggle!</summary>
     Contents of toggle.
 </details>
+
+# Callouts
+
+> :bulb: **Tip:** Here's an important tip to remember!
