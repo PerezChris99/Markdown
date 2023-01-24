@@ -58,3 +58,7 @@ Unordered List
  sum(2,2)
 
  ```
+## definind what language is being used
+ ```js
+ const sum = (a, b) ==> a + b
+ sum(2,2)
