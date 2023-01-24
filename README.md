@@ -97,3 +97,10 @@ Emoji's are fun! joy:-
 
 # Comments
 [This is a hidden comment.]: #
+
+# Toggle
+
+<details>
+    <summary> This is a toggle!</summary>
+    Contents of toggle.
+</details>
