@@ -25,3 +25,4 @@ spacing
 
 *italic text* and _none italic text_
 
+**bold text** and __more bold text__
