@@ -49,4 +49,12 @@ Unordered List
  # Code Formatting
 
  Inline: Use Javascript `map()` on arrays.
- 
+
+ # Fenced Code block:
+
+ ```
+ const sum = (a, b) ==> a + b
+
+ sum(2,2)
+
+ ```
