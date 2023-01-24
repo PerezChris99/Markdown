@@ -30,3 +30,5 @@ spacing
 ***bold and italic text***
 
 **mix *and* match**
+
+~~strikethrough text~~
