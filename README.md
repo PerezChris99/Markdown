@@ -45,4 +45,8 @@ Unordered List
  - Item 2
  - Item 3
  - Item 4
+
+ # Code Formatting
+
+ Inline: Use Javascript `map()` on arrays.
  
